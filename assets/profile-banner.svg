@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Khawaja Muhammad Laeeq — AI systems and full-stack products</title>
+<desc id="desc">A midnight blue banner with lime accents, featuring AI systems, useful products, and a connected interface, API and intelligence stack.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#15263b"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a9c9dd" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+<rect x="48" y="42" width="6" height="17" rx="3" fill="#b6f36a"/>
+<text x="68" y="56" fill="#b6f36a" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3">KH / ENGINEERING &amp; PRODUCT</text>
+<text x="48" y="140" fill="#f4f8fc" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="-2">AI systems.</text>
+<text x="48" y="214" fill="#b6f36a" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Useful products.</text>
+<text x="50" y="274" fill="#a9bccf" font-family="Arial,Helvetica,sans-serif" font-size="19">Python / FastAPI / Next.js / LLM applications</text>
+<path d="M850 100V246" fill="none" stroke="#4a657c" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="729" y="49" width="417" height="66" rx="12" fill="#15273b" stroke="#31475c"/>
+<circle cx="759" cy="82" r="6" fill="#b6f36a"/><text x="781" y="77" fill="#f1f6fa" font-size="19" font-weight="700">Interface</text><text x="781" y="98" fill="#9cb1c7" font-size="13">React / Next.js / TypeScript</text><text x="1100" y="87" fill="#617e96" font-size="19">01</text>
+<rect x="729" y="132" width="417" height="66" rx="12" fill="#15273b" stroke="#31475c"/>
+<circle cx="759" cy="165" r="6" fill="#58d9cf"/><text x="781" y="160" fill="#f1f6fa" font-size="19" font-weight="700">Backend</text><text x="781" y="181" fill="#9cb1c7" font-size="13">FastAPI / Django / PostgreSQL</text><text x="1100" y="170" fill="#617e96" font-size="19">02</text>
+<rect x="729" y="215" width="417" height="66" rx="12" fill="#15273b" stroke="#31475c"/>
+<circle cx="759" cy="248" r="6" fill="#a9a1f7"/><text x="781" y="243" fill="#f1f6fa" font-size="19" font-weight="700">Intelligence</text><text x="781" y="264" fill="#9cb1c7" font-size="13">LLMs / RAG / Agentic workflows</text><text x="1100" y="253" fill="#617e96" font-size="19">03</text>
+</g></svg>
